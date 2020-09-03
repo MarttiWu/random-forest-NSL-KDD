@@ -2,8 +2,8 @@
 //  RandomForest.cpp
 //  test
 //
-//  Created by 吳孟庭 on 2020/6/11.
-//  Copyright © 2020 吳孟庭. All rights reserved.
+//  Created by WU,MENG-TING on 2020/6/11.
+//  Copyright © 2020 WU,MENG-TING. All rights reserved.
 //
 
 #include "RandomForest.hpp"
